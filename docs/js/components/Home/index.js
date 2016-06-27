@@ -23,10 +23,10 @@ export default class Home extends Component {
             <div className={styles.subTitle}>A collection of slider components in React</div>
           </div>
           <div>
-            <iframe
+          <iframe
               src="https://ghbtns.com/github-btn.html?user=jpuri&repo=react-range-slider&type=star&count=true&size=large"
               frameBorder="0"
-              scrolling="0"
+              scrolling="100"
               className={styles.gitLink}
             />
           </div>

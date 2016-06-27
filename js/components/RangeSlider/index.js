@@ -74,7 +74,7 @@ export default class RangeSlider extends Component {
     this.state = {
       start,
       end,
-      startHandleWidth: 0,
+      startHandleWidth: 0,//startheight
       endHandleWidth: 0,
     };
   }
